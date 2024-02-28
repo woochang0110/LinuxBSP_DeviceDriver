@@ -10,6 +10,12 @@
 <br>
 프로젝트 수행기간: 24/2/28<br><br><br>
 
+## Prerequisite
+
+Desktop: Oracle VM VirtualBox - Ubuntu 20.04 X86
+Target Board: Raspberry Pi 4B  - ARM
+
+
 ## How to Use?
 
 [코드 동작](https://program-developers-story.tistory.com/154)<br><br>
