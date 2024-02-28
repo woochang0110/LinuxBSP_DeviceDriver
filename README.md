@@ -12,7 +12,7 @@
 
 ## Prerequisite
 
-Desktop: Oracle VM VirtualBox - Ubuntu 20.04 X86
+Desktop: Oracle VM VirtualBox - Ubuntu 20.04 X86<br>
 Target Board: Raspberry Pi 4B  - ARM
 
 
